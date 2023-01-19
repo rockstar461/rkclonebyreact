@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with Swapnil
+          Learn React with Swapnil and rockstar
         </a>
       </header>
     </div>
